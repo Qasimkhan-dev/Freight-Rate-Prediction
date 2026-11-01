@@ -1,0 +1,3 @@
+scheme,clean_MAPE
+Random 5-fold (leaks neighbouring days),1.1707386646906777
+"Forward chaining, 2-month horizon (used)",1.8727040842416536

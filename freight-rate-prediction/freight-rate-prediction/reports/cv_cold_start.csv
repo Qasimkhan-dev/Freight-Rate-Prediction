@@ -1,0 +1,4 @@
+variant,MAPE_all_rows,MAPE_rows_with_unseen_cities
+with coordinates (final),1.9551657427905365,1.9795891283123817
+without raw lat/lon,2.478518322771723,2.685266656146524
+without any geometry,2.721045404196623,2.7965685917031444
